@@ -1,0 +1,44 @@
+Tyres = {
+    "HiPerf": {
+        "DryFCoeff": 1,
+        "DryRRes": 0.01,
+        "WetFCoeff": 0.70,
+        "WetRRes": 0.02,
+        "Pressure": 1
+    },
+    "HiPerfNoTread": {
+        "DryFCoeff": 1.1,
+        "DryRRes": 0.02,
+        "WetFCoeff": 0.77,
+        "WetRRes": 0.02,
+        "Pressure": 1
+    },
+    "Bike": {
+        "DryFCoeff": 0.75,
+        "DryRRes": 0.004,
+        "WetFCoeff": 0.53,
+        "WetRRes": 0.005,
+        "Pressure": 5
+    },
+    "OffRoad": {
+        "DryFCoeff": 0.75,
+        "DryRRes": 0.02,
+        "WetFCoeff": 0.53,
+        "WetRRes": 0.02,
+        "Pressure": 1.1
+    },
+    "F1": {
+        "DryFCoeff": 1.5,
+        "DryRRes": 0.02,
+        "WetFCoeff": 1.05,
+        "WetRRes": 0.02,
+        "Pressure": 1.1
+    },
+    "Road": {
+        "DryFCoeff": 0.90,
+        "DryRRes": 0.01,
+        "WetFCoeff": 0.6,
+        "WetRRes": 0.01,
+        "Pressure": 2.2
+    }
+}
